@@ -5,7 +5,7 @@ This project was created with React and javascript. Spotify clone that has a mai
 
 ## Main Spotify login page 👇
 
-This is the main Spotify login page. When you click the green button you are directed to this page:
+This is the main Spotify login page. When you click the green login button you are directed to the next page which is a user verify page:
 
 ![Screenshot](spotify-login.jpg)
 
